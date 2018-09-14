@@ -1,2 +1,4 @@
 add feature1
 from feature1
+add feature2
+from feature2
